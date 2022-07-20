@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/french-flip-word-cards-react/static/css/main.073c9b0a.css",
-    "main.js": "/french-flip-word-cards-react/static/js/main.a4737bd5.js",
+    "main.css": "/french-flip-word-cards-react/static/css/main.948fdcb2.css",
+    "main.js": "/french-flip-word-cards-react/static/js/main.f255b165.js",
     "static/js/787.452aa7e4.chunk.js": "/french-flip-word-cards-react/static/js/787.452aa7e4.chunk.js",
     "static/media/logo.svg": "/french-flip-word-cards-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/french-flip-word-cards-react/index.html",
-    "main.073c9b0a.css.map": "/french-flip-word-cards-react/static/css/main.073c9b0a.css.map",
-    "main.a4737bd5.js.map": "/french-flip-word-cards-react/static/js/main.a4737bd5.js.map",
+    "main.948fdcb2.css.map": "/french-flip-word-cards-react/static/css/main.948fdcb2.css.map",
+    "main.f255b165.js.map": "/french-flip-word-cards-react/static/js/main.f255b165.js.map",
     "787.452aa7e4.chunk.js.map": "/french-flip-word-cards-react/static/js/787.452aa7e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a4737bd5.js"
+    "static/css/main.948fdcb2.css",
+    "static/js/main.f255b165.js"
   ]
 }
