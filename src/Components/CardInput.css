@@ -1,0 +1,18 @@
+.TextFields{
+    display: flex;
+    flex-direction: column;
+}
+
+.CardInputsField{
+    margin-bottom: 15px;
+}
+
+.CardInputField{
+    margin: 15px 0;
+}
+
+#outlined-basic {
+    width: 35vw;
+}
+
+
